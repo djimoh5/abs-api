@@ -9,6 +9,7 @@ This guide will walk you through the features currently available through our AP
 
 
 Javascript SDK
+--------------
 
 The Javascript SDK provides a set of client-side calls for integrating a custom external application into the ABS Platform.
 
