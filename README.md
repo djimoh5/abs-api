@@ -1,5 +1,3 @@
-API Documentation for the Always Be Social Platform
-
 Always Be Social API Documentation
 ==================================
 
@@ -125,7 +123,7 @@ https://developers.facebook.com/docs/reference/fql/insights/
 
 
 Map Module API
-
+--------------
 This API provides access to the ABS Platform’s Map Module. This API resides outside of the Javascript SDK and is accessed via direct URL calls, with all fields set using key/value query string parameters.
 
 All requests require your map’s unique authorization token (field ‘token’) in addition to the specific fields listed below for each request.
